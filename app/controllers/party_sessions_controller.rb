@@ -1,0 +1,2 @@
+class PartySessionsController < ApplicationController
+end

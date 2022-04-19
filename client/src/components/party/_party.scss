@@ -1,0 +1,11 @@
+.party-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.party-container {
+  border: 1px solid $highlight-color;
+  width: 90%;
+  height: 90%;
+}

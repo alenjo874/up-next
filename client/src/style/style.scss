@@ -1,5 +1,7 @@
 @import "./variables";
+@import "../components/party/party";
 
 body {
   background-color: $background-color;
+  color: $highlight-color;
 }
